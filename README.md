@@ -7,8 +7,14 @@ A ROS2 Jazzy package for 3D visualization of the **Elephant Robotics MyCobot 6-D
 ---
 ## Screenshots
 ![myCobot robotic arm](media/robotic_arm.jpeg)
+
+
 ![collision enabled image of robotic arm](media/collision_enabled.jpeg)
+
+
 ![view frame 1](media/view_frame_1.jpeg)
+
+
 ![view frame 2](media/view_frame_2.jpeg)
 
 
