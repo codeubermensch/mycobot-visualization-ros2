@@ -5,19 +5,6 @@ A ROS2 Jazzy package for 3D visualization of the **Elephant Robotics MyCobot 6-D
 ![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue) ![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04-orange) ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
 ---
-## Screenshots
-![myCobot robotic arm](media/robotic_arm.jpeg)
-
-
-![collision enabled image of robotic arm](media/collision_enabled.jpeg)
-
-
-![view frame 1](media/view_frame_1.jpeg)
-
-
-![view frame 2](media/view_frame_2.jpeg)
-
-
 ## 📌 Overview
 
 This package provides the complete robot description for the **MyCobot** manipulator by Elephant Robotics — a lightweight 6 Degrees of Freedom (6-DOF) collaborative robot arm. The robot model is defined using **URDF (Unified Robot Description Format)** and modular **Xacro** macros, and is visualized in **RViz2**, the standard 3D visualization tool in the ROS2 ecosystem.
@@ -137,6 +124,24 @@ ros2 run xacro xacro urdf/robots/mycobot_280.urdf.xacro
 ```
 
 ---
+## Screenshots
+![myCobot robotic arm](media/robotic_arm.jpeg)
+
+
+
+![collision enabled image of robotic arm](media/collision_enabled.jpeg)
+
+
+
+![view frame 1](media/view_frame_1.jpeg)
+
+
+
+![view frame 2](media/view_frame_2.jpeg)
+
+
+
+
 
 ## 🎥 Demo
 
