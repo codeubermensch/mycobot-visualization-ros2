@@ -5,6 +5,12 @@ A ROS2 Jazzy package for 3D visualization of the **Elephant Robotics MyCobot 6-D
 ![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue) ![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04-orange) ![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
 ---
+## Screenshots
+![myCobot robotic arm](media/robotic_arm.jpeg)
+![collision enabled image of robotic arm](media/collision_enabled.jpeg)
+![view frame 1](media/view_frame_1.jpeg)
+![view frame 2](media/view_frame_2.jpeg)
+
 
 ## 📌 Overview
 
